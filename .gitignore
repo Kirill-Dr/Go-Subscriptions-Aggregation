@@ -1,0 +1,11 @@
+/server
+/bin/
+*.exe
+
+.env
+
+.idea/
+.vscode/
+
+*.log
+tmp/
